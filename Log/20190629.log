@@ -1,0 +1,50 @@
+00:05:42.199564 [EXCEPTION] Get Full URL Failed, Exception: list indices must be integers or slices, not str
+00:12:28.374974 [EXCEPTION] Execute SQL failed, Exception: (1054, "Unknown column 'visited' in 'field list'")
+10:18:34.443344 [EXCEPTION] Prcess Data Failed, Exception: 'key'
+10:18:34.542081 [EXCEPTION] process request failed, Exception: 'NoneType' object is not iterable
+10:20:44.810616 [EXCEPTION] Prcess Data Failed, Exception: 'key'
+10:20:44.919294 [EXCEPTION] process request failed, Exception: 'NoneType' object is not iterable
+10:21:04.655874 [EXCEPTION] Prcess Data Failed, Exception: 'key'
+10:21:04.685794 [EXCEPTION] process request failed, Exception: 'NoneType' object is not iterable
+10:21:38.551790 [EXCEPTION] process request failed, Exception: 'NoneType' object is not iterable
+10:22:45.397480 [EXCEPTION] process request failed, Exception: 'NoneType' object is not iterable
+10:23:01.075430 [EXCEPTION] Generate Short URL Failed, Exception: '<' not supported between instances of 'str' and 'int'
+10:23:01.077424 [EXCEPTION] Prcess Data Failed, Exception: (0, '')
+10:23:01.120310 [EXCEPTION] process request failed, Exception: 'NoneType' object is not iterable
+10:24:32.016993 [EXCEPTION] process request failed, Exception: 'NoneType' object is not iterable
+10:24:49.178680 [EXCEPTION] process request failed, Exception: 'NoneType' object is not iterable
+10:24:59.832845 [EXCEPTION] process request failed, Exception: 'NoneType' object is not iterable
+10:25:12.249634 [EXCEPTION] process request failed, Exception: 'NoneType' object is not iterable
+10:25:24.977584 [EXCEPTION] process request failed, Exception: 'NoneType' object is not iterable
+10:26:51.659987 [EXCEPTION] process request failed, Exception: 'NoneType' object is not iterable
+10:27:47.299047 [EXCEPTION] process request failed, Exception: 'NoneType' object is not iterable
+10:28:22.454994 [EXCEPTION] Generate Short URL Failed, Exception: unsupported operand type(s) for +: 'float' and 'str'
+10:28:22.455991 [EXCEPTION] Prcess Data Failed, Exception: (0, '')
+10:28:22.494888 [EXCEPTION] process request failed, Exception: 'NoneType' object is not iterable
+10:29:05.707448 [EXCEPTION] process request failed, Exception: 'NoneType' object is not iterable
+10:29:31.734679 [EXCEPTION] process request failed, Exception: 'NoneType' object is not iterable
+10:34:34.184364 [EXCEPTION] Get Full URL Failed, Exception: must be str, not tuple
+10:34:34.508499 [EXCEPTION] Get Full URL Failed, Exception: '.' is not in list
+10:35:17.949900 [EXCEPTION] Get Full URL Failed, Exception: must be str, not tuple
+10:36:11.467120 [EXCEPTION] Execute SQL failed, Exception: 'function' object has no attribute 'translate'
+10:36:11.474100 [EXCEPTION] Get Full URL Failed, Exception: 'full_url'
+10:36:11.474100 [EXCEPTION] Get Full URL Failed, Exception: 'full_url'
+10:37:06.941891 [EXCEPTION] Execute SQL failed, Exception: 'function' object has no attribute 'translate'
+10:37:53.066794 [EXCEPTION] Execute SQL failed, Exception: 'function' object has no attribute 'translate'
+10:38:32.910817 [EXCEPTION] Execute SQL failed, Exception: 'function' object has no attribute 'translate'
+10:59:03.527826 [EXCEPTION] Execute SQL failed, Exception: '_hashlib.HASH' object has no attribute 'translate'
+11:00:08.195399 [EXCEPTION] Execute SQL failed, Exception: 'function' object has no attribute 'translate'
+11:00:23.511825 [EXCEPTION] Execute SQL failed, Exception: 'function' object has no attribute 'translate'
+11:02:25.861183 [EXCEPTION] Execute SQL failed, Exception: 'function' object has no attribute 'translate'
+11:07:33.622226 [EXCEPTION] Get Full URL Failed, Exception: must be str, not bytes
+11:07:58.045195 [EXCEPTION] Execute SQL failed, Exception: 'function' object has no attribute 'translate'
+11:13:00.597462 [EXCEPTION] Execute SQL failed, Exception: 'function' object has no attribute 'translate'
+11:13:06.866637 [EXCEPTION] Execute SQL failed, Exception: 'function' object has no attribute 'translate'
+11:14:03.468978 [EXCEPTION] Execute SQL failed, Exception: 'function' object has no attribute 'translate'
+11:14:08.069825 [EXCEPTION] Execute SQL failed, Exception: 'function' object has no attribute 'translate'
+11:22:36.257193 [EXCEPTION] Generate Short URL Failed, Exception: '_thread.lock' object has no attribute 'require'
+11:22:36.267168 [EXCEPTION] Prcess Data Failed, Exception: release unlocked lock
+11:22:42.048222 [EXCEPTION] Execute SQL failed, Exception: (1048, "Column 'visit_count' cannot be null")
+11:24:38.319125 [EXCEPTION] Generate Short URL Failed, Exception: '_thread.lock' object has no attribute 'require'
+11:24:38.330096 [EXCEPTION] Prcess Data Failed, Exception: release unlocked lock
+11:37:35.634807 [EXCEPTION] Get Full URL Failed, Exception: '.' is not in list

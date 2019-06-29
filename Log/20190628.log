@@ -1,0 +1,27 @@
+18:43:52.020294 [EXCEPTION] Generate Short URL Failed, Exception: type object 'Const' has no attribute 'db_lock'
+18:44:38.171409 [EXCEPTION] MySQL DB connect failed, Exception: (1045, "Access denied for user 'root'@'118.112.52.215' (using password: YES)")
+18:44:39.321369 [FAIL] DB Connection Failed
+18:46:18.024834 [EXCEPTION] Execute SQL failed, Exception: (0, '')
+18:48:57.668094 [EXCEPTION] MySQL DB connect failed, Exception: type object 'Const' has no attribute 'dbname'
+18:48:59.228948 [FAIL] DB Connection Failed
+18:49:07.445521 [EXCEPTION] MySQL DB connect failed, Exception: type object 'Const' has no attribute 'dbname'
+18:49:45.060328 [EXCEPTION] Execute SQL failed, Exception: (0, '')
+18:50:18.382860 [EXCEPTION] Execute SQL failed, Exception: (0, '')
+23:22:30.176276 [EXCEPTION] Generate Short URL Failed, Exception: type object 'Const' has no attribute 'dbname'
+23:22:56.304166 [EXCEPTION] Execute SQL failed, Exception: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'create index tb_url_2_expire on shorturlsrv.tb_url_2 (expire asc);\n             ' at line 8")
+23:22:56.347040 [EXCEPTION] Execute SQL failed, Exception: (1146, "Table 'shorturlsrv.tb_url_2' doesn't exist")
+23:25:40.669501 [EXCEPTION] Execute SQL failed, Exception: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'create index tb_url_2_expire on shorturlsrv.tb_url_2 (expire asc);\n             ' at line 8")
+23:25:40.712314 [EXCEPTION] Execute SQL failed, Exception: (1146, "Table 'shorturlsrv.tb_url_2' doesn't exist")
+23:25:56.977365 [EXCEPTION] Generate Short URL Failed, Exception: not all arguments converted during string formatting
+23:27:00.293097 [EXCEPTION] Execute SQL failed, Exception: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'create index tb_url_2_expire on shorturlsrv.tb_url_2 (expire asc)' at line 7")
+23:29:14.171291 [EXCEPTION] Execute SQL failed, Exception: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'create index tb_url_2_expire on shorturlsrv.tb_url_2 (expire asc)' at line 7")
+23:29:45.838880 [EXCEPTION] Execute SQL failed, Exception: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'create index tb_url_2_expire on shorturlsrv.tb_url_2 (expire asc)' at line 6")
+23:31:40.403771 [EXCEPTION] Execute SQL failed, Exception: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'create index tb_url_2_expire on shorturlsrv.tb_url_2 (expire asc)' at line 1")
+23:34:38.030919 [EXCEPTION] Execute SQL failed, Exception: (1062, "Duplicate entry '2' for key 'PRIMARY'")
+23:38:45.288221 [EXCEPTION] Execute SQL failed, Exception: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '+=1 where type='maxID'' at line 1")
+23:39:08.594505 [EXCEPTION] Execute SQL failed, Exception: (1062, "Duplicate entry '1' for key 'PRIMARY'")
+23:39:08.637438 [EXCEPTION] Execute SQL failed, Exception: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '+=1 where type='maxID'' at line 1")
+23:46:31.629729 [EXCEPTION] Generate Short URL Failed, Exception: 'iuPr23JH' is not in list
+23:47:56.576205 [EXCEPTION] Execute SQL failed, Exception: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'create index tb_url_43_expire on shorturlsrv.tb_url_43 (expire asc)' at line 7")
+23:47:56.619088 [EXCEPTION] Execute SQL failed, Exception: (1146, "Table 'shorturlsrv.tb_url_43' doesn't exist")
+23:47:56.657986 [EXCEPTION] Execute SQL failed, Exception: (1146, "Table 'shorturlsrv.tb_url_43' doesn't exist")
